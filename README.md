@@ -1,4 +1,4 @@
-<img src="#" alt="Hello world">
+<img src="https://github.com/RiyaSakhiya/RiyaSakhiya/blob/master/riya.png" alt="Riya">
 
 <p align="center"> 
   Visitor count<br>
