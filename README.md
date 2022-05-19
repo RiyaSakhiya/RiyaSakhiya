@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Hybrid language**
 - 🌱 I’m currently learning **MongoDB**
-- 🔭 I’m n **Full Stack Developer**
+- 🔭 I’m a **Full Stack Developer**
 - 📫 How to reach me: **rheasakhiya0309@gmail.com** </br><hr>
  
 ## Connect with me:
